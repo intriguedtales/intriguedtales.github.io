@@ -3,10 +3,8 @@ layout: post
 title:  "The Doorway To Those Words"
 date:   2020-08-22 12:33:13 -0700
 categories: jekyll update
-image: "/images/doorway.png"
 author: manasa
 tags: [books, authors]
-featured:
 ---
 
 Ever read a book, and realized how those words could have changed your life? It might not be the plot or a character, but those words which create that urge in your head, to read more. Today I am not going to write about a particular book, but about that particular metaphor in my head which I call a  ‘Green Door’.

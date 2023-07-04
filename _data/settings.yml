@@ -16,8 +16,8 @@ menu__settings:
       url: '/blog/'
     - title: 'About'
       url: '/about/'
-    - title: 'Contact'
-      url: '/contact/'
+#    - title: 'Contact'
+#      url: '/contact/'
 
 
 #-------------------------------
@@ -44,11 +44,10 @@ blog__settings:
   blog__title: Latest Posts
   blog__description:
 
-
 #-------------------------------
 # Videos Section Settings
 videos__settings:
-  enable: true
+  enable: false
   videos__title: Latest Videos
   videos__description:
 
@@ -86,7 +85,7 @@ mailchimp__settings:
 
 #-------------------------------
 # Footer Settings
-footer__description: Don’t limit yourself. Many people limit themselves to what they think they can do. You can go as far as your mind lets you. What you believe, remember, you can achieve.
+footer__description: I am here to express my thoughts about my travels, books and simple practices that would inspire me to see this world through a better perspective..
 
 
 # Social Links
@@ -108,8 +107,6 @@ footer__menu__settings:
       url: '/'
     - title: 'About'
       url: '/about/'
-    - title: 'Contact'
-      url: '/contact/'
 
 
 #-------------------------------

@@ -6,7 +6,6 @@ categories: jekyll update
 author: manasa
 tags: [women, life]
 tags_color: #3b2f2f
-featured:
 ---
 
 It was an usual day, as I walked down the street at 7 AM in the morning for my morning walk, catching the first glimpse of the Sun and trying to readjust myself to the morning routine. As I walked down to the park, I saw two little girls trying to persuade their mom to play football with them. I could sense the exasperation, when she said “OK Fine, but you girls will not open your mouth in front of your father. If you agree to what I just said, I will play with you.”
