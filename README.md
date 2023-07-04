@@ -1,6 +1,10 @@
 # Intrigued Tales
 
-[![Build and deploy Jekyll site to GitHub Pages](https://github.com/manasa-netrakanti/manasa-netrakanti.github.io/actions/workflows/jekyll-docker.yml/badge.svg?branch=main)](https://github.com/manasa-netrakanti/manasa-netrakanti.github.io/actions/workflows/jekyll-docker.yml)
+**Author:** Manasa Netrakanti
+
+**Publish Status:** 
+
+[![pages-build-deployment](https://github.com/intriguedtales/intriguedtales.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/intriguedtales/intriguedtales.github.io/actions/workflows/pages/pages-build-deployment)
 
 
 ## Local Testing
